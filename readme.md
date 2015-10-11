@@ -64,7 +64,7 @@ correct.)
  higher class are considered to be "faster" or at least "better":
         0 : Residential
         1 : Collector
-        2 : Arterial 
+        2 : Arterial
         3 : Principal HW
         4 : Major HW 
 
