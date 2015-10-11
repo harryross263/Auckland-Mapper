@@ -1,0 +1,13 @@
+# eclipse project
+
+.classpath
+.project
+.settings
+bin/**/*
+
+# any swap files
+**/*.swp
+
+# any compiled files
+**/*.class
+
