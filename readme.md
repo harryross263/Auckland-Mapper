@@ -64,11 +64,11 @@ correct.)
  This is the other important attribute for calculating good routes - roads of a
  higher class are considered to be "faster" or at least "better".
 
-   0 = Residential
-   1 = Collector
-   2 = Arterial 
-   3 = Principal HW
-   4 = Major HW 
+   0 : Residential
+   1 : Collector
+   2 : Arterial 
+   3 : Principal HW
+   4 : Major HW 
 
 
 ##### One_way:
