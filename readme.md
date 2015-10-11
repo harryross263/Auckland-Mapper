@@ -62,20 +62,18 @@ correct.)
 
 ##### Road class:
  This is the other important attribute for calculating good routes - roads of a
- higher class are considered to be "faster" or at least "better".
-
-   0 : Residential
-   1 : Collector
-   2 : Arterial 
-   3 : Principal HW
-   4 : Major HW 
-
+ higher class are considered to be "faster" or at least "better":
+        0 : Residential
+        1 : Collector
+        2 : Arterial 
+        3 : Principal HW
+        4 : Major HW 
 
 ##### One_way:
         0 : both directions allowed
         1 : one way road, direction from beginning to end
 
-##### notforcar, notforpedestrians, notforbicycle
+##### notforcar, notforpedestrians, notforbicycle:
         0 : OK for this category of traffic
         1 : Not useable by this category of traffic
 
