@@ -49,15 +49,14 @@ is in.  The meanings of the numeric colums are:
 (Note, these are not accurate representations of the real Auckland speed
 limits, but they are the best we have. You may use them as if they were
 correct.) 
-
-   0 = 5km/h    
-   1 = 20km/h   
-   2 = 40km/h   
-   3 = 60km/h   
-   4 = 80km/h   
-   5 = 100km/h  
-   6 = 110km/h  
-   7 = no limit 
+        0 : 5km/h    
+        1 : 20km/h   
+        2 : 40km/h   
+        3 : 60km/h   
+        4 : 80km/h   
+        5 : 100km/h  
+        6 : 110km/h  
+        7 : no limit 
 
 
 ##### Road class:
